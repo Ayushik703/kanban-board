@@ -1,0 +1,20 @@
+.kanban-column {
+  border-radius: 8px;
+  padding: 12px;
+  min-height: 400px;
+}
+
+/* Todo */
+.kanban-column.todo {
+  background-color: #e7f3ff; /* light blue */
+}
+
+/* In Progress */
+.kanban-column.inProgress {
+  background-color: #fff6d6; /* light yellow */
+}
+
+/* Done */
+.kanban-column.done {
+  background-color: #e6f7ec; /* light green */
+}

@@ -1,0 +1,4 @@
+.card.read-only {
+  background-color: #f1f1f1;
+  cursor: not-allowed;
+}
